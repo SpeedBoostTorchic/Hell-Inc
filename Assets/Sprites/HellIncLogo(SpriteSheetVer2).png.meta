@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 54d107f463eeb944bb9e00e99ac3d4aa
+timeCreated: 1458850454
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HellIncLogo(SpriteSheetVer2)_0
+    21300002: HellIncLogo(SpriteSheetVer2)_1
+    21300004: HellIncLogo(SpriteSheetVer2)_2
+    21300006: HellIncLogo(SpriteSheetVer2)_3
+    21300008: HellIncLogo(SpriteSheetVer2)_7
+    21300010: HellIncLogo(SpriteSheetVer2)_8
+    21300012: HellIncLogo(SpriteSheetVer2)_10
+    21300014: HellIncLogo(SpriteSheetVer2)_4
+    21300016: HellIncLogo(SpriteSheetVer2)_5
+    21300018: HellIncLogo(SpriteSheetVer2)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HellIncLogo(SpriteSheetVer2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: 71}
+        - {x: -246, y: 68}
+        - {x: -256, y: 62}
+        - {x: -256, y: 10}
+        - {x: -255, y: 2}
+        - {x: -100, y: 0}
+        - {x: -34, y: 0}
+        - {x: 195, y: 3}
+        - {x: 200, y: 0}
+        - {x: 244, y: 0}
+        - {x: 256, y: 7}
+        - {x: 256, y: 55}
+        - {x: 242, y: 71}
+    - name: HellIncLogo(SpriteSheetVer2)_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 419
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -247, y: 72}
+        - {x: -256, y: 64}
+        - {x: -256, y: 0}
+        - {x: 194, y: 1}
+        - {x: 196, y: 0}
+        - {x: 253, y: 0}
+        - {x: 256, y: 1}
+        - {x: 256, y: 57}
+        - {x: 250, y: 75}
+        - {x: 160, y: 75}
+        - {x: -28, y: 69}
+    - name: HellIncLogo(SpriteSheetVer2)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 251, y: 57}
+        - {x: 256, y: 60}
+        - {x: 256, y: 66}
+        - {x: 253, y: 77}
+        - {x: 2, y: 77}
+        - {x: -247, y: 72}
+        - {x: -256, y: 64}
+        - {x: -256, y: 11}
+        - {x: -255, y: 3}
+        - {x: -62, y: 2}
+        - {x: 5, y: 0}
+        - {x: 248, y: 0}
+        - {x: 256, y: 8}
+        - {x: 256, y: 55}
+        - {x: 228, y: 64}
+    - name: HellIncLogo(SpriteSheetVer2)_3
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 292
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 219, y: 57}
+        - {x: 222, y: 58}
+        - {x: 248, y: 57}
+        - {x: 253, y: 61}
+        - {x: 255, y: 69}
+        - {x: 246, y: 79}
+        - {x: 115, y: 79}
+        - {x: -246, y: 68}
+        - {x: -256, y: 62}
+        - {x: -256, y: 0}
+        - {x: 240, y: 0}
+        - {x: 256, y: 14}
+        - {x: 256, y: 54}
+        - {x: 222, y: 57}
+    - name: HellIncLogo(SpriteSheetVer2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -254, y: 64}
+        - {x: -256, y: 63}
+        - {x: -256, y: 0}
+        - {x: 245, y: 0}
+        - {x: 256, y: 10}
+        - {x: 256, y: 54}
+        - {x: 199, y: 64}
+      - - {x: 213, y: 57}
+        - {x: 214, y: 54}
+        - {x: 217, y: 54}
+        - {x: 219, y: 56}
+        - {x: 218, y: 59}
+        - {x: 215, y: 59}
+      - - {x: 231, y: 54}
+        - {x: 234, y: 55}
+        - {x: 234, y: 58}
+        - {x: 231, y: 59}
+        - {x: 229, y: 57}
+      - - {x: 225, y: 80}
+        - {x: 223, y: 76}
+        - {x: 223, y: 64}
+        - {x: 224, y: 62}
+        - {x: 241, y: 56}
+        - {x: 253, y: 56}
+        - {x: 253, y: 79}
+        - {x: 249, y: 80}
+    - name: HellIncLogo(SpriteSheetVer2)_5
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 164
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -253, y: 64}
+        - {x: -256, y: 62}
+        - {x: -256, y: 10}
+        - {x: -255, y: 2}
+        - {x: -100, y: 0}
+        - {x: 241, y: 0}
+        - {x: 256, y: 11}
+        - {x: 256, y: 60}
+        - {x: 231, y: 64}
+      - - {x: 234, y: 75}
+        - {x: 236, y: 73}
+        - {x: 245, y: 62}
+        - {x: 249, y: 62}
+        - {x: 253, y: 65}
+        - {x: 253, y: 74}
+        - {x: 249, y: 80}
+        - {x: 239, y: 80}
+        - {x: 234, y: 79}
+    - name: HellIncLogo(SpriteSheetVer2)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 512
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -254, y: 66}
+        - {x: -256, y: 64}
+        - {x: -256, y: 8}
+        - {x: -255, y: 2}
+        - {x: 79, y: 2}
+        - {x: 103, y: 0}
+        - {x: 241, y: 0}
+        - {x: 256, y: 7}
+        - {x: 256, y: 55}
+        - {x: 239, y: 66}
+      - - {x: 248, y: 63}
+        - {x: 253, y: 63}
+        - {x: 255, y: 64}
+        - {x: 255, y: 79}
+        - {x: 246, y: 79}
+        - {x: 244, y: 78}
+        - {x: 244, y: 72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
